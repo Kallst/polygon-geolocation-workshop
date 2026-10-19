@@ -2,7 +2,7 @@
 
 Frontend workshop project. The web page locates the user on a map, lets them draw a polygon by clicking, calculates its area and perimeter, and exports it as GeoJSON.
 
-- **Live demo (HTTPS):** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+- **Live demo (HTTPS):** https://github.com/Kallst/polygon-geolocation-workshop
 - **Stack:** HTML, CSS, JavaScript, [Leaflet 1.9.4](https://leafletjs.com/), [Turf.js 7](https://turfjs.org/), OpenStreetMap tiles
 
 ## Project structure
